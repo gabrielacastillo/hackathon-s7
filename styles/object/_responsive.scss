@@ -1,0 +1,24 @@
+@media all and (min-width:1200px){ 
+
+}
+@media all and (min-width: 960px) and (max-width: 1199px) { 
+
+}
+@media all and (min-width: 768px) and (max-width: 959px) { 
+
+    /*---NAV---*/
+    nav div{
+        left: 20px;
+    }
+
+    /*---MAIN---*/
+    main{
+        padding: 20px;
+    }
+}
+@media all and (min-width: 480px) and (max-width: 767px){  
+
+}
+@media all and (max-width: 479px) { 
+
+}

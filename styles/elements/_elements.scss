@@ -1,0 +1,23 @@
+html{
+    font-family: 'Roboto';
+    font-size: $font-size;
+}
+
+nav{
+    height: 100px;
+    line-height: 100px;
+    vertical-align: middle;
+    position: relative;
+}
+
+header{
+    background-image: url("../images/bannerVector.png"), url("../images/banner.png");
+    background-repeat: no-repeat, no-repeat;
+    height: 250px;
+    line-height: 250px;
+}
+
+main{
+    padding: 40px 100px;
+}
+

@@ -1,0 +1,29 @@
+footer {
+  margin-right: 50px;
+  border-top-right-radius: 200px;
+  background-color: #316099;
+  color: white;
+  padding: 100px;
+
+  .container {
+    .bloque1 {
+      position: relative;
+      padding-right: 500px;
+
+      .text {
+        h3 {
+          font-size: 1.5rem;
+          padding-bottom: 2rem;
+        }
+        p {
+          width: 300px;
+        }
+      }
+
+      .lest-talk {
+        position: absolute;
+        right: 0;
+      }
+    }
+  }
+}
